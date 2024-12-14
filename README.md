@@ -72,7 +72,7 @@ Use highly accurate models like Random Forest or Linear Regression to predict de
 Combine forecast outputs with inventory management techniques like safety stock calculations and reorder points.
 
 
-Future Work: 
+## Future Work: 
 Optimize Hyperparameters: Use grid search or random search to find the optimal hyperparameters such as the number of layers, neurons per layer, learning rate etc.
 
 Incorporate Additional Features: Include more features such as holiday effects, promotional events, weather conditions.
