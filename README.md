@@ -11,7 +11,7 @@ Efficient inventory management is essential for businesses aiming to reduce hold
 The primary objective of this project is to develop a predictive model that optimizes inventory management by accurately forecasting demand using Machine Learning and Deep Learning techniques. 
 
 
-Demand Forecasting: Predicting future demand using deep learning models such as LSTM for accurate stock adjustments.
+Demand Forecasting: Predicting future demand using Linear Regression, Random Forest Regressor, ARIMA and  deep learning models such as LSTM for accurate stock adjustments.
 
 Optimization: Implementing replenishment strategies to minimize costs while maintaining service levels.
 
