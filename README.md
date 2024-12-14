@@ -1,4 +1,4 @@
-# Randy_Inventory_Optimization
+# Inventory Optimization and Demand Forecasting
 
 
 
